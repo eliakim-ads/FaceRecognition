@@ -1,9 +1,6 @@
 Olá, Esse projeto faz parte da Disciplina de Segurança da Faculdade SENAC RIO - Módulo 3 - Turno da NOITE
 
 Projeto de Reconhecimento Facial com DeepFace
-Olá! Com base no seu código e nas bibliotecas que 
-você escolheu (DeepFace e OpenCV), preparei esse arquivo 
-completo para documentar seu projeto.
 
 Reconhecimento Facial em Tempo Real (DeepFace)
 Este projeto implementa um sistema de reconhecimento 
