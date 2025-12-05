@@ -1,4 +1,4 @@
-Olá, Ese projeto faz parte da Disciplina de Segurança da Faculdade SENAC RIO - Módulo 3 - Turno da NOITE
+Olá, Esse projeto faz parte da Disciplina de Segurança da Faculdade SENAC RIO - Módulo 3 - Turno da NOITE
 
 Projeto de Reconhecimento Facial com DeepFace
 Olá! Com base no seu código e nas bibliotecas que 
